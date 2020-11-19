@@ -61,7 +61,7 @@
 
 - 👨‍💻 **API Integration - FullStack Python (Django)**\
 📆 2020 - Moment\
-📍 **<a href='https://github.com/fl4viooliveira/4devbydev'>4 Dev by Dev</a>** - London, Uk
+📍 **<a href='https://github.com/fl4viooliveira/django_printful'>Django E-commerce consuming the Printful API. </a>** - London, Uk
 
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/NGINX-4A154B?logo=nginx&logoColor=white" />
