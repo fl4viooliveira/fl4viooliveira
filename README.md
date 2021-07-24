@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Django (Python) Developer | Full Stack Web applications.
+  Django (Python) and React (JavaScript) Developer | Full Stack Web applications.
 </p>
 
 <p align='center'>
