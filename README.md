@@ -38,17 +38,11 @@
 
 📊 **Weekly development breakdown** 
 
-[![wakatime](https://wakatime.com/badge/user/6818fb35-2578-409a-966c-92bc1e9581fb.svg)](https://wakatime.com/@6818fb35-2578-409a-966c-92bc1e9581fb)
-[![wakatime](https://wakatime.com/badge/user/378d8eac-6a6d-445a-8ef9-434a48bd342c/project/bcb0c1f3-caae-4d78-ac8d-79a721090d9c.svg)]
+
+![wakatime][(https://wakatime.com/badge/user/378d8eac-6a6d-445a-8ef9-434a48bd342c/project/bcb0c1f3-caae-4d78-ac8d-79a721090d9c.svg)]
 
 <!--START_SECTION:waka-->
-```text
-Other        10 hrs 5 mins   ███████████████░░░░░░░░░░   60.20 % 
-TeX          4 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.73 % 
-YAML         1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-TypeScript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Terraform    21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-```
+
 <!--END_SECTION:waka-->
 
 <details>
