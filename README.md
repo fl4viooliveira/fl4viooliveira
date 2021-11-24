@@ -36,6 +36,20 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/fl4viooliveira/fl4viooliveira"></a> 
 </p>
 
+📊 **Weekly development breakdown** 
+
+[![wakatime](https://wakatime.com/badge/user/6818fb35-2578-409a-966c-92bc1e9581fb.svg)](https://wakatime.com/@6818fb35-2578-409a-966c-92bc1e9581fb)
+
+<!--START_SECTION:waka-->
+```text
+Other        10 hrs 5 mins   ███████████████░░░░░░░░░░   60.20 % 
+TeX          4 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.73 % 
+YAML         1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+TypeScript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Terraform    21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+```
+<!--END_SECTION:waka-->
+
 <details>
   <summary>📃 My CV</summary>
 
