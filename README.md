@@ -38,7 +38,7 @@
 
 📊 **Development breakdown** 
 
-[![wakatime](https://wakatime.com/badge/user/378d8eac-6a6d-445a-8ef9-434a48bd342c.svg)](https://wakatime.com/@378d8eac-6a6d-445a-8ef9-434a48bd342c)
+[![wakatime](https://wakatime.com/badge/fl4viooliveira/378d8eac-6a6d-445a-8ef9-434a48bd342c.svg)](https://wakatime.com/@378d8eac-6a6d-445a-8ef9-434a48bd342c)
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
