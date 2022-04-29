@@ -36,12 +36,10 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/fl4viooliveira/fl4viooliveira"></a> 
 </p>
 
+<a href="https://app.daily.dev/fl4vio"><img src="https://api.daily.dev/devcards/dca3658e0db744f68911cacc3148eda9.png?r=hi0" width="400" alt="Flavio Oliveira's Dev Card"/></a>
+
 📊 **Development breakdown** 
 
-[![wakatime](https://wakatime.com/badge/fl4viooliveira/378d8eac-6a6d-445a-8ef9-434a48bd342c.svg)](https://wakatime.com/@378d8eac-6a6d-445a-8ef9-434a48bd342c)
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 
 <details>
