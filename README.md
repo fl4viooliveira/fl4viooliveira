@@ -19,7 +19,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fl4viooliveira&show_icons=true&count_private=true&theme=dracula" width="350"></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fl4viooliveira&layout=compact"><img src="https://github.com/fl4viooliveira/github-readme-stats"</a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fl4viooliveira&layout=compact"><img src="https://github.com/fl4viooliveira/github-readme-stats"/></a>
   
 </p>
 
