@@ -19,7 +19,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fl4viooliveira&show_icons=true&count_private=true&theme=dracula" width="350"></a>
-  <img href="https://github-readme-stats.vercel.app/api/top-langs/?username=fl4viooliveira&layout=compact"/>
+  <a href="#"><img href="https://github-readme-stats.vercel.app/api/top-langs/?username=fl4viooliveira&layout=compact"/></a>
   
 </p>
 
