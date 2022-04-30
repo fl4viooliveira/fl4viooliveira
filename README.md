@@ -19,10 +19,9 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fl4viooliveira&show_icons=true&count_private=true&theme=dracula" width="350"></a>
-  <a href="#"><img href="https://github-readme-stats.vercel.app/api/top-langs/?username=fl4viooliveira&layout=compact"/></a>
-  
 </p>
 
+<!--
 <p align='center'>
   💻 My workspace specs<br/><br/>
   <img src="https://img.shields.io/badge/ubuntu-%23E4405F.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -30,7 +29,7 @@
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
  </p>
-
+-->
 <p align='center'>
   📫 How to reach me: <a href='mailto:fl4viooliveira@gmail.com'>fl4viooliveira@gmail.com</a>
 </p>
@@ -42,6 +41,7 @@
 <a href="https://app.daily.dev/fl4vio"><img src="https://api.daily.dev/devcards/dca3658e0db744f68911cacc3148eda9.png?r=hi0" width="400" alt="Flavio Oliveira's Dev Card"/></a>
 </p>
 
+<!--
 📊 **Development breakdown** 
 
 
@@ -97,7 +97,7 @@
 📆 2014 - Moment\
 📍 **<a href='https://bjjforum.com.br/'>BJJForum</a>** - Sao Paulo, Brazil
 
-
+-->
 <!--## Skills
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
