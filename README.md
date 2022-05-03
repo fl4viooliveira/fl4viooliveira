@@ -21,9 +21,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fl4viooliveira&show_icons=true&count_private=true&theme=dracula" width="350"></a>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fl4viooliveira&theme=nord">
-</p>
 
 <!--
 <p align='center'>
