@@ -34,9 +34,6 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:fl4viooliveira@gmail.com'>fl4viooliveira@gmail.com</a>
 </p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/fl4viooliveira/fl4viooliveira"></a> 
-</p>
 
 
 
