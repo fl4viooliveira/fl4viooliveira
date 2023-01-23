@@ -36,7 +36,9 @@
 </p>
 
 <p aligh='center'>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fl4viooliveira&theme=github_dark&hide_border=true&count_private=true)](https://github.com/fl4viooliveira/github-readme-stats)
+  
 </p>
 
 
