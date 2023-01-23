@@ -15,8 +15,6 @@
     <img src="https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fl4viooliveira&theme=github_dark&hide_border=true&count_private=true)]     (https://github.com/fl4viooliveira/github-readme-stats)
-  
 </p>
 
 <p align='center'>
@@ -37,14 +35,10 @@
   📫 How to reach me: <a href='mailto:fl4viooliveira@gmail.com'>fl4viooliveira@gmail.com</a>
 </p>
 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fl4viooliveira&theme=github_dark&hide_border=true&count_private=true)]     (https://github.com/fl4viooliveira/github-readme-stats)
-
-
 <!--
 📊 **Development breakdown** 
 
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fl4viooliveira&theme=github_dark&hide_border=true&count_private=true)]     (https://github.com/fl4viooliveira/github-readme-stats)
 
 <details>
   <summary>📃 My CV</summary>
