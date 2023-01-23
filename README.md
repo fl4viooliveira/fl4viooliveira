@@ -35,6 +35,9 @@
   📫 How to reach me: <a href='mailto:fl4viooliveira@gmail.com'>fl4viooliveira@gmail.com</a>
 </p>
 
+<p aligh='center'>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fl4viooliveira&theme=github_dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
 <!--
